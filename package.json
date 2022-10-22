@@ -1,0 +1,23 @@
+{
+  "name": "20221031-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/20221031-presentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/20221031-presentation/issues"
+  },
+  "homepage": "https://github.com/rchaser53/20221031-presentation#readme",
+  "dependencies": {
+    "fusuma": "^2.8.4"
+  }
+}
